@@ -1,0 +1,19 @@
+# NAME: AICG
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:18:28
+# DOMAIN: 8
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 24
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 36
+DOMAIN-SUFFIX,midlibrary.io
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-KEYWORD,discord
+IP-CIDR,112.54.162.202/204,no-resolve
+IP-CIDR,42.4.52.158/160,no-resolve
+
